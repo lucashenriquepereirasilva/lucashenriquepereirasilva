@@ -8,10 +8,7 @@
 
 
 
-💼 LinkedIn: [https://www.linkedin.com/in/lucas-henrique-86081b2b2/]
-<br>
-📂 GitHub: [https://github.com/lucashenriquepereirasilva]
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-86081b2b2/)
 <br>
 
 <h2 align="center" >⚡estatísticos⚡</h2>
@@ -24,19 +21,29 @@
 ![lucashenriquepereirasilva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashenriquepereirasilva&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 
-## Tecnologia que eu uso no meu dia-a-dia!!
 
-<div style="display: inline_block"><br/>
-<img align: center; alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img align: center; alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img align: center; alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img align: center; alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img align: center; alt="MSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+## 🔥 Skills
+
+
+
+  <img align="center" alt="David-Windows" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />   <img align="center" alt="David-Windows" height="80" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />         <img align="center" alt="David-Windows" height="80" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />              <img align="center" alt="David-Windows" height="80" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />        <img align="center" alt="David-Windows" height="80" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+
+     
+
+
+
 
 
 
 <div  align="center"> 
     <img align="left" height="250" alt="coding-time" src="code.gif">
+
+
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
  
 
    </div>
