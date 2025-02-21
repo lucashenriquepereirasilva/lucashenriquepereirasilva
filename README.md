@@ -1,32 +1,60 @@
-<h2 align="left">Olá meu nome é Lucas</h2>
 
-###
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Lucas+Henrique;" />
+</h1>
+<br>
+
+<div  align="center" >
 
 
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+💼 LinkedIn: [https://www.linkedin.com/in/lucas-henrique-86081b2b2/]
+<br>
+📂 GitHub: [https://github.com/lucashenriquepereirasilva]
 </div>
+<br>
 
-###
+<h2 align="center" >⚡estatísticos⚡</h2>
+<br>
 
-<div align="left">
-  
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
 
-###
+
+
+![lucashenriquepereirasilva's Stats](https://github-readme-stats.vercel.app/api?username=lucashenriquepereirasilva&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![lucashenriquepereirasilva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashenriquepereirasilva&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
+
+## Tecnologia que eu uso no meu dia-a-dia!!
+
+<div style="display: inline_block"><br/>
+<img align: center; alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align: center; alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img align: center; alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img align: center; alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img align: center; alt="MSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+
+
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
+
+
+</div><br/>
+
+
+
+
+<br/>
+
+
+
+
+<br/>
+
+
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigada+e+volte+sempre!;" />
+</h1>
