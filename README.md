@@ -8,7 +8,7 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-86081b2b2/)
+
 <br>
 
 <h2 align="center" >⚡estatísticos⚡</h2>
@@ -16,19 +16,27 @@
 
 
 
-
-![lucashenriquepereirasilva's Stats](https://github-readme-stats.vercel.app/api?username=lucashenriquepereirasilva&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![lucashenriquepereirasilva's Stats](https://github-readme-stats.vercel.app/api?username=lucashenriquepereirasilva&theme=prussian&show_icons=true&hide_border=false&count_private=false)
 ![lucashenriquepereirasilva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashenriquepereirasilva&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 
 
 
-## 🔥 Skills
 
+<div align="center" valign="top"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div><br>
 
-
-  <img align="center" alt="David-Windows" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />   <img align="center" alt="David-Windows" height="80" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />         <img align="center" alt="David-Windows" height="80" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />              <img align="center" alt="David-Windows" height="80" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />        <img align="center" alt="David-Windows" height="80" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-86081b2b2/)
      
 
 
@@ -39,16 +47,11 @@
 <div  align="center"> 
     <img align="left" height="250" alt="coding-time" src="code.gif">
 
+<div align="center">
 
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
- 
-
-   </div>
-
-</div><br/>
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 
 
